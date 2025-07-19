@@ -20,19 +20,6 @@
 
 ---
 
-📂 Projects
-
-### 🔹 [TextUtils - Text Analysis Web App](https://github.com/prachiupadhyay1211/TextUtils)
-- Django-based tool for analyzing and transforming text
-- Features: remove punctuations, spaces, newlines, convert to uppercase, etc.
-
-🔹 Student Performance Prediction (ML Project)
-- ML model to predict student outcomes using Scikit-learn
-- Used data preprocessing, feature engineering, cross-validation
-- Visualized insights with Matplotlib for real-world recommendations
-
----
-
 📊 GitHub Stats
 
 ![Prachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=prachiupadhyay1211&show_icons=true&theme=radical)
