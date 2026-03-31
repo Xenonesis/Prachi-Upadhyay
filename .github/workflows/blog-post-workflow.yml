@@ -12,7 +12,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Pull in dev.to posts
+        continue-on-error: true
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          comment_tag_name: "BLOG"
+          comment_tag_name: "BLOG-POST-LIST"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
           feed_list: "https://dev.to/feed/prachiupadhyay1211,https://medium.com/feed/@prachiupadhyay1211"
