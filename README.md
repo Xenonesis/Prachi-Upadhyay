@@ -452,6 +452,11 @@ graph TD
 
 <div align="center">
 
+### 🔄 Latest GitHub Activity
+<!--START_SECTION:activity-->
+- 🎯 Initializing latest activity feed...
+<!--END_SECTION:activity-->
+
 ### ⏰ Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
@@ -539,11 +544,13 @@ YAML             45 mins         ░░░░░░░░░░░░░░░�
 </table>
 
 ### 📝 Latest Blog Posts & Articles
+<!-- BLOG-POST-LIST:START -->
 - 🤖 [Building Scalable ML Pipelines with MLOps](https://dev.to/prachiupadhyay1211)
 - 🌐 [Modern React Patterns for 2025](https://medium.com/@prachiupadhyay1211)
 - 🔐 [Cybersecurity Best Practices for Developers](https://hashnode.com/@prachiupadhyay1211)
 - ☁️ [AWS Cost Optimization Strategies](https://dev.to/prachiupadhyay1211)
 - 📊 [Data Science Project Lifecycle](https://medium.com/@prachiupadhyay1211)
+<!-- BLOG-POST-LIST:END -->
 
 </div>
 
