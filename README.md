@@ -454,7 +454,7 @@ graph TD
 
 ### 🔄 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/prachiupadhyay1211/Prachi-Upadhyay/pull/2#issuecomment-4166399264) in [prachiupadhyay1211/Prachi-Upadhyay](https://github.com/prachiupadhyay1211/Prachi-Upadhyay)
+1. 🎉 Merged PR [#1](https://github.com/Xenonesis/chess-arena/pull/1) in [Xenonesis/chess-arena](https://github.com/Xenonesis/chess-arena)
 <!--END_SECTION:activity-->
 
 ### ⏰ Weekly Development Breakdown
