@@ -454,7 +454,7 @@ graph TD
 
 ### 🔄 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Xenonesis/chess-arena/pull/1) in [Xenonesis/chess-arena](https://github.com/Xenonesis/chess-arena)
+1. ℹ️ Assigned issue [#152](https://github.com/Xenonesis/code-guardian-report/issues/152) in [Xenonesis/code-guardian-report](https://github.com/Xenonesis/code-guardian-report)
 <!--END_SECTION:activity-->
 
 ### ⏰ Weekly Development Breakdown
