@@ -454,7 +454,7 @@ graph TD
 
 ### 🔄 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0](https://github.com/Xenonesis/svi-new/releases/tag/v1.0.0) in [Xenonesis/svi-new](https://github.com/Xenonesis/svi-new)
+1. 🎉 Merged PR [#1](https://github.com/Xenonesis/sysmon/pull/1) in [Xenonesis/sysmon](https://github.com/Xenonesis/sysmon)
 <!--END_SECTION:activity-->
 
 ### ⏰ Weekly Development Breakdown
