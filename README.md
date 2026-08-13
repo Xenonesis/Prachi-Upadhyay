@@ -454,7 +454,7 @@ graph TD
 
 ### 🔄 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Xenonesis/sysmon/pull/1) in [Xenonesis/sysmon](https://github.com/Xenonesis/sysmon)
+1. 🚀 Published release [v3.5](https://github.com/Xenonesis/sysmon/releases/tag/v3.5.0) in [Xenonesis/sysmon](https://github.com/Xenonesis/sysmon)
 <!--END_SECTION:activity-->
 
 ### ⏰ Weekly Development Breakdown
