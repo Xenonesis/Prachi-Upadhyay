@@ -454,7 +454,7 @@ graph TD
 
 ### 🔄 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.8.0](https://github.com/Xenonesis/sysmon/releases/tag/v3.8.0) in [Xenonesis/sysmon](https://github.com/Xenonesis/sysmon)
+1. 🗣 Commented on [#424931](https://github.com/microsoft/winget-pkgs/pull/424931#issuecomment-5434910140) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 <!--END_SECTION:activity-->
 
 ### ⏰ Weekly Development Breakdown
