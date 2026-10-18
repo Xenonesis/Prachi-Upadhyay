@@ -454,7 +454,7 @@ graph TD
 
 ### 🔄 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#425013](https://github.com/microsoft/winget-pkgs/pull/425013) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+1. 🚀 Published release [Kronos v0.12.0 - Apex Autonomous Workstation](https://github.com/Xenonesis/paseo/releases/tag/v0.12.0) in [Xenonesis/paseo](https://github.com/Xenonesis/paseo)
 <!--END_SECTION:activity-->
 
 ### ⏰ Weekly Development Breakdown
