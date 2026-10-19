@@ -454,7 +454,7 @@ graph TD
 
 ### 🔄 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Kronos v0.12.0 - Apex Autonomous Workstation](https://github.com/Xenonesis/paseo/releases/tag/v0.12.0) in [Xenonesis/paseo](https://github.com/Xenonesis/paseo)
+1. 🚀 Published release [Kronos v0.12.0 - Apex Autonomous Workstation](https://github.com/Xenonesis/Kronos/releases/tag/v0.12.0) in [Xenonesis/Kronos](https://github.com/Xenonesis/Kronos)
 <!--END_SECTION:activity-->
 
 ### ⏰ Weekly Development Breakdown
