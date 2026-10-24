@@ -454,7 +454,7 @@ graph TD
 
 ### 🔄 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Kronos v0.12.0 - Apex Autonomous Workstation](https://github.com/Xenonesis/Kronos/releases/tag/v0.12.0) in [Xenonesis/Kronos](https://github.com/Xenonesis/Kronos)
+1. 🚀 Published release [Kronos v0.13.0 - Sub-Second Cold Boot & Upstream 0.13.0 Parity](https://github.com/Xenonesis/Kronos/releases/tag/v0.13.0) in [Xenonesis/Kronos](https://github.com/Xenonesis/Kronos)
 <!--END_SECTION:activity-->
 
 ### ⏰ Weekly Development Breakdown
