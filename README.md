@@ -454,7 +454,7 @@ graph TD
 
 ### 🔄 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Kronos v0.13.2 - Model Discovery & Provider Resilience](https://github.com/Xenonesis/Kronos/releases/tag/v0.13.2) in [Xenonesis/Kronos](https://github.com/Xenonesis/Kronos)
+1. 🚀 Published release [Kronos v0.14.0 - Upstream Sync, Performance & Reliability Suite](https://github.com/Xenonesis/Kronos/releases/tag/v0.14.0) in [Xenonesis/Kronos](https://github.com/Xenonesis/Kronos)
 <!--END_SECTION:activity-->
 
 ### ⏰ Weekly Development Breakdown
