@@ -454,7 +454,7 @@ graph TD
 
 ### 🔄 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Kronos v0.15.0-beta.1](https://github.com/Xenonesis/Kronos/releases/tag/v0.15.0-beta.1) in [Xenonesis/Kronos](https://github.com/Xenonesis/Kronos)
+1. 💪 Opened PR [#468495](https://github.com/microsoft/winget-pkgs/pull/468495) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 <!--END_SECTION:activity-->
 
 ### ⏰ Weekly Development Breakdown
